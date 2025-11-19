@@ -16,11 +16,14 @@
 ### 样式配置
 
 样式文件应为ZIP格式，包含以下结构：
+
+```
 style.zip
 ├── elements.yml    # 元素样式配置
 ├── setting.yml     # 全局设置
 └── imgs/
     └── background.png  # 背景图片
+```
 
 ### 参数详解
 
