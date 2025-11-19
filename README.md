@@ -1,0 +1,2 @@
+# Langbot_M2Img_Pro
+一个强大的AI对话Markdown消息转图片插件，能够自动识别和转换AI回复中的Markdown格式内容为精美的图片。
