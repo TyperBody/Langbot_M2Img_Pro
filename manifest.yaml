@@ -4,7 +4,7 @@ metadata:
   author: Typer_Body
   name: Markdowm2ing_Pro
   repository: 'https://github.com/TyperBody/Langbot_M2Img_Pro'
-  version: 0.1.0
+  version: 3.0.0
   description:
     en_US: Convert markdown messages in ai content to images
     zh_Hans: Convert markdown messages in ai content to images
