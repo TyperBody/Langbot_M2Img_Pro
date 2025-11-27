@@ -23,7 +23,7 @@ response_text = None #全局变量，导入消息
 get_url = False
 get_markdown = 2
 #调试输出
-test_mode = True
+test_mode = False
 #阻止回复
 breakout = True
 
